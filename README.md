@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vishalg1021997
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Develoment
+- ✨ Aspiring FullStack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
