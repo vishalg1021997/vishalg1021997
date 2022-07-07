@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalg1021997
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Full-Stack Web Develoment
-- ✨ Aspiring FullStack Developer
+- ✨ An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.Experienced with all stages of the development cycle for dynamic web projects.
 - 📫 How to reach me https://www.linkedin.com/in/vishalg1021997/
 
 <!---
