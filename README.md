@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Full-Stack Web Develoment
 - ✨ An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.Experienced with all stages of the development cycle for dynamic web projects.
-- 📫 How to reach me https://www.linkedin.com/in/vishalg1021997/
--Linkedin https://github.com/vishalg1021997
--Portfolio https://vishal-gupta.netlify.app/
+- 📫 How to reach me 
+Linkedin https://www.linkedin.com/in/vishalg1021997/
+Portfolio https://vishal-gupta.netlify.app/
 
 <!---
 vishalg1021997/vishalg1021997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
