@@ -33,7 +33,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalg1021997&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishalg1021997" /></p>
-<br/>
+<br/><br/>
 
 
 [![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishalg1021997&theme=react-dark)](https://github.com/vishalg1021997/github-readme-activity-graph)
