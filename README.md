@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/His
 - 📫 How to reach me **vishalg1021997@gmail.com** 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
-- 📑 Know More About [Me](https://drive.google.com/file/d/1DjQ70Tpyd5R0leyaq9JHXfXsN_i4WN2F/view?usp=sharing)
+- 📑 Know More About [Me](https://drive.google.com/file/d/1BsXCvksz2Vj9dw2A7_F8m6gDSIWXbwSZ/view?usp=sharing)
 
 
 ### Languages & Tech
