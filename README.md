@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalg1021997&show_icons=true&locale=en&theme=radical" alt="vishalg1021997" /></p>
 
-
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalg1021997)](https://github.com/vishalg1021997/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalg1021997&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishalg1021997" /></p>
 <br/>
